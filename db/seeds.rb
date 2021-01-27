@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Favorite.create(artist: "Jordan", title: "Wazzaahhhh", lyrics: ["My name is Jordan", "I like snowboardin", "I got a lot of stuff so some people think I'm hoardin"])
