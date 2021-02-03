@@ -12,7 +12,7 @@ Writing lyrics has always been really difficult, so I wanted to make a tool that
 
 ## Technologies
 
-💻React.js / XML
+💻React.js / XML <br />
 💻JavaScript / HTML / CSS <br />
 💻Ruby <br />
 💻Rails <br />
